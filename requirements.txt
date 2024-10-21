@@ -1,0 +1,6 @@
+pip install pandas scikit-learn streamlit
+pip install --upgrade pandas streamlit
+pip install openpyxl
+
+for running
+streamlit run car_price_prediction.py
